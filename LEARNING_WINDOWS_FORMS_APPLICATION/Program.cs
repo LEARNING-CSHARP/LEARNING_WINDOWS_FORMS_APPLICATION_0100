@@ -5,6 +5,10 @@
 	/// </summary>
 	static class Program
 	{
+		static Program()
+		{
+		}
+
 		/// <summary>
 		/// Startup Function
 		/// </summary>
